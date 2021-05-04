@@ -2,7 +2,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - gh-pages
+      - cp2004
 
 jobs:
   build-and-push:
@@ -11,7 +11,7 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v2
         with:
-          ref: gh-pages
+          ref: cp2004
           path: src
       - name: Checkout current
         uses: actions/checkout@v2
