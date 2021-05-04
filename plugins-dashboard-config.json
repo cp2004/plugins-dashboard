@@ -1,7 +1,10 @@
 {
-  "gitHubUser": "The-EG",
+  "gitHubUser": "cp2004",
   "plugins": [
-    {"id": "camerasettings", "name": "Camera Settings", "url": "https://github.com/The-EG/OctoPrint-CameraSettings", "repo": "OctoPrint-CameraSettings"},
-    {"id": "ublmeshedit", "name": "UBL Mesh Editor", "url": "https://github.com/The-EG/OctoPrint-UblMeshEditor", "repo": "OctoPrint-UBLMeshEdit"}
+    {"id": "ws281x_led_status", "name": "WS281x LED Status", "url": "https://github.com/cp2004/OctoPrint-WS281x_LED_Status", "repo": "OctoPrint-WS281x_LED_Status"},
+    {"id": "eeprom_marlin", "name": "Marlin EEPROM Editor", "url": "https://github.com/cp2004/OctoPrint-EEPROM-Marlin", "repo": "OctoPrint-EEPROM-Marlin"},
+    {"id": "wled", "name": "WLED Connection", "url": "https://github.com/cp2004/OctoPrint-WLED", "repo": "OctoPrint-WLED"},
+    {"id": "virtual_printerconfig", "name": "VirtualPrinter Settings", "url": "https://github.com/cp2004/OctoPrint-VirtualPrinterSettings", "repo": "OctoPrint-VirtualPrinterSettings"},
+    {"id": "autologin_config", "name": "AutoLoginConfig", "url": "https://github.com/OctoPrint/OctoPrint-AutoLoginConfig", "repo": "OctoPrint-AutoLoginConfig"}
   ]
 }

@@ -81,7 +81,7 @@ class VersionLineChart extends React.Component {
           <CartesianGrid strokeDasharray="5 5" stroke={ theme.palette.text.secondary }/>
           <XAxis dataKey="date" stroke={ theme.palette.text.primary }/>
           <YAxis stroke={ theme.palette.text.primary } />
-          <Line name="Total" dataKey="total" strokeWidth={4} type="monotone" />
+          <Line name="Total" dataKey="total" strokeWidth={4} type="monotone" dot={false} />
           { this.props.versionData.map((version, index) => ( 
             <Line
               name={version.version}
@@ -91,6 +91,7 @@ class VersionLineChart extends React.Component {
               strokeWidth={4}
               stroke={ this.props.versionColors[version.version] }
               type="monotone"
+              dot={false}
             />
           ))}
           <Tooltip content={ (event) => RenderVersionLineTooltip(event, this.props.plugin.id, this.props.versionColors) }/>

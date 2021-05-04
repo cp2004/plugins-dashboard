@@ -43,7 +43,7 @@ class DataUpdater:
             })
         
         with open(self.stats_path, 'wt') as stats_file:
-            json.dump(stats, stats_file)
+            json.dump(stats, stats_file, indent=2)
         
         print("Plugin stats updated.")
 
@@ -60,8 +60,8 @@ class DataUpdater:
                 repos[plugin['id']] = {}
 
             repo_resp = urllib.request.urlopen(f"https://api.github.com/repos/{self.config['gitHubUser']}/{plugin['repo']}", None)
-            open_frs_resp = urllib.request.urlopen(f"https://api.github.com/repos/{self.config['gitHubUser']}/{plugin['repo']}/issues?state=open&labels=enhancement", None)
-            conf_bugs_resp = urllib.request.urlopen(f"https://api.github.com/repos/{self.config['gitHubUser']}/{plugin['repo']}/issues?state=open&labels=bug,confirmed", None)
+            open_frs_resp = urllib.request.urlopen(f"https://api.github.com/repos/{self.config['gitHubUser']}/{plugin['repo']}/issues?state=open&labels=request", None)
+            conf_bugs_resp = urllib.request.urlopen(f"https://api.github.com/repos/{self.config['gitHubUser']}/{plugin['repo']}/issues?state=open&labels=confirmed%20bug", None)
             need_info_resp = urllib.request.urlopen(f"https://api.github.com/repos/{self.config['gitHubUser']}/{plugin['repo']}/issues?state=open&labels=need+more+info", None)
                 
             repo_stats = json.load(repo_resp)
@@ -77,7 +77,7 @@ class DataUpdater:
             repos[plugin['id']]['conf_bugs'] = len(conf_bugs)
 
         with open(self.repo_path, 'wt') as repos_file:
-            json.dump(repos, repos_file)
+            json.dump(repos, repos_file, indent=2)
         print("Plugin repo stats updated.")
             
 
