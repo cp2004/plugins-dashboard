@@ -10,7 +10,7 @@
   "eeprom_marlin": {
     "stargazers": 15,
     "forks": 5,
-    "open_issues": 11,
+    "open_issues": 12,
     "open_frs": 5,
     "open_need_info": 0,
     "conf_bugs": 4
@@ -18,8 +18,8 @@
   "wled": {
     "stargazers": 25,
     "forks": 3,
-    "open_issues": 8,
-    "open_frs": 7,
+    "open_issues": 3,
+    "open_frs": 3,
     "open_need_info": 0,
     "conf_bugs": 0
   },
