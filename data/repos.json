@@ -2,15 +2,15 @@
   "ws281x_led_status": {
     "stargazers": 62,
     "forks": 15,
-    "open_issues": 18,
+    "open_issues": 19,
     "open_frs": 9,
     "open_need_info": 0,
     "conf_bugs": 2
   },
   "eeprom_marlin": {
     "stargazers": 17,
-    "forks": 6,
-    "open_issues": 3,
+    "forks": 7,
+    "open_issues": 4,
     "open_frs": 3,
     "open_need_info": 0,
     "conf_bugs": 0
@@ -19,14 +19,14 @@
     "stargazers": 31,
     "forks": 3,
     "open_issues": 9,
-    "open_frs": 4,
+    "open_frs": 5,
     "open_need_info": 0,
     "conf_bugs": 0
   },
   "virtual_printerconfig": {
     "stargazers": 4,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 4,
     "open_frs": 0,
     "open_need_info": 0,
     "conf_bugs": 0
