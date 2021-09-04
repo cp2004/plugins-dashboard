@@ -1,6 +1,6 @@
 {
   "ws281x_led_status": {
-    "stargazers": 66,
+    "stargazers": 67,
     "forks": 16,
     "open_issues": 18,
     "open_frs": 9,
@@ -26,7 +26,7 @@
   "virtual_printerconfig": {
     "stargazers": 4,
     "forks": 1,
-    "open_issues": 5,
+    "open_issues": 0,
     "open_frs": 0,
     "open_need_info": 0,
     "conf_bugs": 0
