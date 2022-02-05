@@ -2,10 +2,10 @@
   "ws281x_led_status": {
     "stargazers": 78,
     "forks": 17,
-    "open_issues": 21,
-    "open_frs": 11,
+    "open_issues": 8,
+    "open_frs": 5,
     "open_need_info": 0,
-    "conf_bugs": 3
+    "conf_bugs": 0
   },
   "eeprom_marlin": {
     "stargazers": 19,
@@ -16,7 +16,7 @@
     "conf_bugs": 0
   },
   "wled": {
-    "stargazers": 40,
+    "stargazers": 41,
     "forks": 4,
     "open_issues": 12,
     "open_frs": 6,
