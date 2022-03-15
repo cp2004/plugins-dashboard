@@ -1,6 +1,6 @@
 {
   "ws281x_led_status": {
-    "stargazers": 82,
+    "stargazers": 83,
     "forks": 18,
     "open_issues": 9,
     "open_frs": 5,
@@ -16,8 +16,8 @@
     "conf_bugs": 0
   },
   "wled": {
-    "stargazers": 42,
-    "forks": 4,
+    "stargazers": 44,
+    "forks": 5,
     "open_issues": 12,
     "open_frs": 7,
     "open_need_info": 0,
