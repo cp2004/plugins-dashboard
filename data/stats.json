@@ -32688,12 +32688,54 @@
             "instances": 4530
           }
         }
+      },
+      {
+        "date": "2023-09-04",
+        "total": 5127,
+        "versions": {
+          "1.2.1": {
+            "instances": 165
+          },
+          "1.3.th3d": {
+            "instances": 1
+          },
+          "1.4": {
+            "instances": 8
+          },
+          "2.0.0": {
+            "instances": 6
+          },
+          "3.0.0": {
+            "instances": 2
+          },
+          "3.0.1": {
+            "instances": 15
+          },
+          "3.0.2": {
+            "instances": 17
+          },
+          "3.1.0": {
+            "instances": 109
+          },
+          "3.1.0.dev193+gfc52aab.dirty": {
+            "instances": 1
+          },
+          "3.2.0": {
+            "instances": 359
+          },
+          "3.2.0rc2": {
+            "instances": 1
+          },
+          "3.3.0": {
+            "instances": 4544
+          }
+        }
       }
     ],
-    "total": 5118,
+    "total": 5127,
     "versions": {
       "1.2.1": {
-        "instances": 167
+        "instances": 165
       },
       "1.3.th3d": {
         "instances": 1
@@ -32711,22 +32753,22 @@
         "instances": 15
       },
       "3.0.2": {
-        "instances": 16
+        "instances": 17
       },
       "3.1.0": {
-        "instances": 110
+        "instances": 109
       },
       "3.1.0.dev193+gfc52aab.dirty": {
         "instances": 1
       },
       "3.2.0": {
-        "instances": 361
+        "instances": 359
       },
       "3.2.0rc2": {
         "instances": 1
       },
       "3.3.0": {
-        "instances": 4530
+        "instances": 4544
       }
     }
   },
@@ -56377,6 +56419,30 @@
             "instances": 838
           }
         }
+      },
+      {
+        "date": "2023-09-04",
+        "total": 865,
+        "versions": {
+          "0.4.0": {
+            "instances": 1
+          },
+          "0.5.1": {
+            "instances": 1
+          },
+          "0.6.0": {
+            "instances": 6
+          },
+          "0.7.2": {
+            "instances": 20
+          },
+          "0.8.0": {
+            "instances": 3
+          },
+          "0.8.1": {
+            "instances": 838
+          }
+        }
       }
     ],
     "total": 865,
@@ -56391,10 +56457,10 @@
         "instances": 6
       },
       "0.7.2": {
-        "instances": 19
+        "instances": 20
       },
       "0.8.0": {
-        "instances": 4
+        "instances": 3
       },
       "0.8.1": {
         "instances": 838
@@ -67658,9 +67724,24 @@
             "instances": 551
           }
         }
+      },
+      {
+        "date": "2023-09-04",
+        "total": 616,
+        "versions": {
+          "0.2.0": {
+            "instances": 79
+          },
+          "0.2.0.post4.dev0+g31e4026": {
+            "instances": 1
+          },
+          "0.2.1": {
+            "instances": 551
+          }
+        }
       }
     ],
-    "total": 617,
+    "total": 616,
     "versions": {
       "0.2.0": {
         "instances": 79
@@ -81234,9 +81315,27 @@
             "instances": 207
           }
         }
+      },
+      {
+        "date": "2023-09-04",
+        "total": 225,
+        "versions": {
+          "0.1.3": {
+            "instances": 1
+          },
+          "1.5.1": {
+            "instances": 14
+          },
+          "2022.7.1": {
+            "instances": 1
+          },
+          "2022.7.4": {
+            "instances": 209
+          }
+        }
       }
     ],
-    "total": 223,
+    "total": 225,
     "versions": {
       "0.1.3": {
         "instances": 1
@@ -81248,7 +81347,7 @@
         "instances": 1
       },
       "2022.7.4": {
-        "instances": 207
+        "instances": 209
       }
     }
   },
@@ -92980,15 +93079,27 @@
             "instances": 469
           }
         }
+      },
+      {
+        "date": "2023-09-04",
+        "total": 473,
+        "versions": {
+          "0.1.0": {
+            "instances": 2
+          },
+          "0.2.1": {
+            "instances": 471
+          }
+        }
       }
     ],
-    "total": 471,
+    "total": 473,
     "versions": {
       "0.1.0": {
         "instances": 2
       },
       "0.2.1": {
-        "instances": 469
+        "instances": 471
       }
     }
   }
