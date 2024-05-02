@@ -42267,9 +42267,54 @@
             "instances": 4291
           }
         }
+      },
+      {
+        "date": "2024-05-02",
+        "total": 4638,
+        "versions": {
+          "1.0.4": {
+            "instances": 1
+          },
+          "1.2.1": {
+            "instances": 122
+          },
+          "1.3.1.th3d": {
+            "instances": 1
+          },
+          "1.4": {
+            "instances": 6
+          },
+          "2.0.0": {
+            "instances": 4
+          },
+          "3.0.0": {
+            "instances": 2
+          },
+          "3.0.1": {
+            "instances": 7
+          },
+          "3.0.2": {
+            "instances": 10
+          },
+          "3.1.0": {
+            "instances": 64
+          },
+          "3.1.0.dev193+gfc52aab.dirty": {
+            "instances": 1
+          },
+          "3.2.0": {
+            "instances": 167
+          },
+          "3.2.0rc2": {
+            "instances": 1
+          },
+          "3.3.0": {
+            "instances": 4295
+          }
+        }
       }
     ],
-    "total": 4635,
+    "total": 4638,
     "versions": {
       "1.0.4": {
         "instances": 1
@@ -42302,13 +42347,13 @@
         "instances": 1
       },
       "3.2.0": {
-        "instances": 168
+        "instances": 167
       },
       "3.2.0rc2": {
         "instances": 1
       },
       "3.3.0": {
-        "instances": 4291
+        "instances": 4295
       }
     }
   },
@@ -70504,9 +70549,27 @@
             "instances": 769
           }
         }
+      },
+      {
+        "date": "2024-05-02",
+        "total": 780,
+        "versions": {
+          "0.6.0": {
+            "instances": 1
+          },
+          "0.7.2": {
+            "instances": 11
+          },
+          "0.8.0": {
+            "instances": 1
+          },
+          "0.8.1": {
+            "instances": 771
+          }
+        }
       }
     ],
-    "total": 778,
+    "total": 780,
     "versions": {
       "0.6.0": {
         "instances": 1
@@ -70518,7 +70581,7 @@
         "instances": 1
       },
       "0.8.1": {
-        "instances": 769
+        "instances": 771
       }
     }
   },
@@ -85556,9 +85619,24 @@
             "instances": 508
           }
         }
+      },
+      {
+        "date": "2024-05-02",
+        "total": 531,
+        "versions": {
+          "0.2.0": {
+            "instances": 25
+          },
+          "0.2.0.post4.dev0+g31e4026": {
+            "instances": 1
+          },
+          "0.2.1": {
+            "instances": 507
+          }
+        }
       }
     ],
-    "total": 532,
+    "total": 531,
     "versions": {
       "0.2.0": {
         "instances": 25
@@ -85567,7 +85645,7 @@
         "instances": 1
       },
       "0.2.1": {
-        "instances": 508
+        "instances": 507
       }
     }
   },
@@ -102684,9 +102762,27 @@
             "instances": 218
           }
         }
+      },
+      {
+        "date": "2024-05-02",
+        "total": 228,
+        "versions": {
+          "1.5.0": {
+            "instances": 1
+          },
+          "1.5.1": {
+            "instances": 11
+          },
+          "2022.7.1": {
+            "instances": 1
+          },
+          "2022.7.4": {
+            "instances": 217
+          }
+        }
       }
     ],
-    "total": 229,
+    "total": 228,
     "versions": {
       "1.5.0": {
         "instances": 1
@@ -102698,7 +102794,7 @@
         "instances": 1
       },
       "2022.7.4": {
-        "instances": 218
+        "instances": 217
       }
     }
   },
@@ -117334,15 +117430,27 @@
             "instances": 447
           }
         }
+      },
+      {
+        "date": "2024-05-02",
+        "total": 450,
+        "versions": {
+          "0.1.0": {
+            "instances": 1
+          },
+          "0.2.1": {
+            "instances": 449
+          }
+        }
       }
     ],
-    "total": 448,
+    "total": 450,
     "versions": {
       "0.1.0": {
         "instances": 1
       },
       "0.2.1": {
-        "instances": 447
+        "instances": 449
       }
     }
   }
