@@ -45588,15 +45588,54 @@
             "instances": 3503
           }
         }
+      },
+      {
+        "date": "2024-07-19",
+        "total": 3777,
+        "versions": {
+          "1.0.4": {
+            "instances": 1
+          },
+          "1.2.1": {
+            "instances": 102
+          },
+          "1.4": {
+            "instances": 6
+          },
+          "2.0.0": {
+            "instances": 5
+          },
+          "3.0.0": {
+            "instances": 1
+          },
+          "3.0.1": {
+            "instances": 5
+          },
+          "3.0.2": {
+            "instances": 8
+          },
+          "3.1.0": {
+            "instances": 54
+          },
+          "3.2.0": {
+            "instances": 136
+          },
+          "3.2.0rc2": {
+            "instances": 1
+          },
+          "3.3.0": {
+            "instances": 3499
+          }
+        }
       }
     ],
-    "total": 3783,
+    "total": 3777,
     "versions": {
       "1.0.4": {
         "instances": 1
       },
       "1.2.1": {
-        "instances": 104
+        "instances": 102
       },
       "1.4": {
         "instances": 6
@@ -45611,7 +45650,7 @@
         "instances": 5
       },
       "3.0.2": {
-        "instances": 9
+        "instances": 8
       },
       "3.1.0": {
         "instances": 54
@@ -45623,7 +45662,7 @@
         "instances": 1
       },
       "3.3.0": {
-        "instances": 3503
+        "instances": 3499
       }
     }
   },
@@ -75118,6 +75157,24 @@
             "instances": 643
           }
         }
+      },
+      {
+        "date": "2024-07-19",
+        "total": 653,
+        "versions": {
+          "0.6.0": {
+            "instances": 1
+          },
+          "0.7.2": {
+            "instances": 9
+          },
+          "0.8.0": {
+            "instances": 1
+          },
+          "0.8.1": {
+            "instances": 643
+          }
+        }
       }
     ],
     "total": 653,
@@ -75126,7 +75183,7 @@
         "instances": 1
       },
       "0.7.2": {
-        "instances": 10
+        "instances": 9
       },
       "0.8.0": {
         "instances": 1
@@ -91307,15 +91364,27 @@
             "instances": 464
           }
         }
+      },
+      {
+        "date": "2024-07-19",
+        "total": 483,
+        "versions": {
+          "0.2.0": {
+            "instances": 23
+          },
+          "0.2.1": {
+            "instances": 462
+          }
+        }
       }
     ],
-    "total": 485,
+    "total": 483,
     "versions": {
       "0.2.0": {
         "instances": 23
       },
       "0.2.1": {
-        "instances": 464
+        "instances": 462
       }
     }
   },
@@ -109509,15 +109578,27 @@
             "instances": 179
           }
         }
+      },
+      {
+        "date": "2024-07-19",
+        "total": 188,
+        "versions": {
+          "1.5.1": {
+            "instances": 9
+          },
+          "2022.7.4": {
+            "instances": 180
+          }
+        }
       }
     ],
-    "total": 187,
+    "total": 188,
     "versions": {
       "1.5.1": {
         "instances": 9
       },
       "2022.7.4": {
-        "instances": 179
+        "instances": 180
       }
     }
   },
@@ -125098,9 +125179,24 @@
             "instances": 378
           }
         }
+      },
+      {
+        "date": "2024-07-19",
+        "total": 378,
+        "versions": {
+          "0+unknown": {
+            "instances": 1
+          },
+          "0.1.0": {
+            "instances": 1
+          },
+          "0.2.1": {
+            "instances": 376
+          }
+        }
       }
     ],
-    "total": 380,
+    "total": 378,
     "versions": {
       "0+unknown": {
         "instances": 1
@@ -125109,7 +125205,7 @@
         "instances": 1
       },
       "0.2.1": {
-        "instances": 378
+        "instances": 376
       }
     }
   }
