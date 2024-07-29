@@ -46026,9 +46026,60 @@
             "instances": 1
           }
         }
+      },
+      {
+        "date": "2024-07-29",
+        "total": 3740,
+        "versions": {
+          "0.post275.dev0+g2da5ed6": {
+            "instances": 1
+          },
+          "1.0.4": {
+            "instances": 1
+          },
+          "1.2.1": {
+            "instances": 104
+          },
+          "1.4": {
+            "instances": 7
+          },
+          "2.0.0": {
+            "instances": 6
+          },
+          "3.0.0": {
+            "instances": 1
+          },
+          "3.0.1": {
+            "instances": 4
+          },
+          "3.0.2": {
+            "instances": 9
+          },
+          "3.1.0": {
+            "instances": 52
+          },
+          "3.2.0": {
+            "instances": 132
+          },
+          "3.2.0rc2": {
+            "instances": 1
+          },
+          "3.3.0": {
+            "instances": 3466
+          },
+          "3.3.0.post2.dev0+g2da5ed6": {
+            "instances": 1
+          },
+          "3.3.0.post3.dev0+g18f55bf": {
+            "instances": 1
+          },
+          "3.3.0.post3.dev0+g8a54362": {
+            "instances": 1
+          }
+        }
       }
     ],
-    "total": 3752,
+    "total": 3740,
     "versions": {
       "0.post275.dev0+g2da5ed6": {
         "instances": 1
@@ -46058,13 +46109,13 @@
         "instances": 52
       },
       "3.2.0": {
-        "instances": 134
+        "instances": 132
       },
       "3.2.0rc2": {
         "instances": 1
       },
       "3.3.0": {
-        "instances": 3478
+        "instances": 3466
       },
       "3.3.0.post2.dev0+g2da5ed6": {
         "instances": 1
@@ -75748,9 +75799,27 @@
             "instances": 644
           }
         }
+      },
+      {
+        "date": "2024-07-29",
+        "total": 652,
+        "versions": {
+          "0.6.0": {
+            "instances": 1
+          },
+          "0.7.2": {
+            "instances": 9
+          },
+          "0.8.0": {
+            "instances": 1
+          },
+          "0.8.1": {
+            "instances": 643
+          }
+        }
       }
     ],
-    "total": 653,
+    "total": 652,
     "versions": {
       "0.6.0": {
         "instances": 1
@@ -75762,7 +75831,7 @@
         "instances": 1
       },
       "0.8.1": {
-        "instances": 644
+        "instances": 643
       }
     }
   },
@@ -92057,15 +92126,27 @@
             "instances": 459
           }
         }
+      },
+      {
+        "date": "2024-07-29",
+        "total": 482,
+        "versions": {
+          "0.2.0": {
+            "instances": 22
+          },
+          "0.2.1": {
+            "instances": 461
+          }
+        }
       }
     ],
-    "total": 480,
+    "total": 482,
     "versions": {
       "0.2.0": {
         "instances": 22
       },
       "0.2.1": {
-        "instances": 459
+        "instances": 461
       }
     }
   },
@@ -110379,12 +110460,24 @@
             "instances": 173
           }
         }
+      },
+      {
+        "date": "2024-07-29",
+        "total": 180,
+        "versions": {
+          "1.5.1": {
+            "instances": 7
+          },
+          "2022.7.4": {
+            "instances": 173
+          }
+        }
       }
     ],
-    "total": 179,
+    "total": 180,
     "versions": {
       "1.5.1": {
-        "instances": 6
+        "instances": 7
       },
       "2022.7.4": {
         "instances": 173
@@ -126118,9 +126211,24 @@
             "instances": 372
           }
         }
+      },
+      {
+        "date": "2024-07-29",
+        "total": 377,
+        "versions": {
+          "0+unknown": {
+            "instances": 1
+          },
+          "0.1.0": {
+            "instances": 1
+          },
+          "0.2.1": {
+            "instances": 375
+          }
+        }
       }
     ],
-    "total": 374,
+    "total": 377,
     "versions": {
       "0+unknown": {
         "instances": 1
@@ -126129,7 +126237,7 @@
         "instances": 1
       },
       "0.2.1": {
-        "instances": 372
+        "instances": 375
       }
     }
   }
